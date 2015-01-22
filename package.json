@@ -1,0 +1,9 @@
+{
+  "name": "SheduleDemo",
+  "version": "0.0.0",
+  "private": true,
+  
+  "dependencies": {
+    "node-schedule":"~0.1.15"
+  }
+}
